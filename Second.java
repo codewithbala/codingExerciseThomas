@@ -1,7 +1,7 @@
 public class Second {
 
     //Write a program to check if a string is a palindrome.
-    public boolean palindrome (String s) {
+    public static boolean palindrome (String s) {
         if (s.length() <= 1) return true;
         int index1 = 0;
         int index2 = s.length()-1;
