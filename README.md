@@ -19,3 +19,13 @@
 9. Write a program to check if two strings are anagrams.
 
 10. Write a program to count the number of vowels in a string.
+
+11. Write a program to reverse an integer.
+
+12. Write a program to check if an integer is a palindrome.  
+
+13. Write a program to find the sum of digits of an integer. 
+
+14. Write a program to print the factors of a number.  
+
+15. Write a program to find the largest element in an array.
