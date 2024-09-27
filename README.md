@@ -29,3 +29,13 @@
 14. Write a program to print the factors of a number.  
 
 15. Write a program to find the largest element in an array.
+
+16. Write a program to find the second largest element in an array.  
+
+17. Write a program to find the missing number in an array of 1 to n.  
+
+18. Write a program to check if an array is sorted. 
+
+19. Write a program to rotate an array by k positions.  
+
+20. Write a program to find the duplicate elements in an array.
