@@ -39,3 +39,13 @@
 19. Write a program to rotate an array by k positions.  
 
 20. Write a program to find the duplicate elements in an array.
+
+21. Write a program to remove duplicates from an array. 
+
+22. Write a program to count the frequency of elements in an array. 
+
+23. Write a program to merge two sorted arrays. 
+
+24. Write a program to find the intersection of two arrays. 
+
+25. Write a program to find the union of two arrays.
